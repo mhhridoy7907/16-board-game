@@ -1,33 +1,52 @@
-# 16 Guti  Game 🏆
+# 16 Board Game 🎮
 
-A **classic 16 Guti board game** implemented in **HTML, CSS, and JavaScript** with a smart AI opponent. Test your strategy skills and see if you can defeat the computer!
+### Upload Date: 2026
 
----
+A browser-based implementation of the traditional **16 Board Game (Sholo Guti)** built using **HTML, CSS, and JavaScript**.
 
-## 🎮 Features
-- Fully playable **16 Guti game** in the browser
-- Challenging **AI that prioritizes captures**
-- Click to select and move your pieces
-- Smooth **animations and highlights**
-- Restart game and **rules guide** included
+This project recreates the classic strategy board game with an interactive interface and AI opponent support, allowing users to play directly in the browser.
 
----
+## Features ✨
 
-## ⚡ How to Play
-1. Select your piece by clicking on it.
-2. Move one step or jump over enemy pieces to capture.
-3. Eliminate all AI pieces to win.
-4. If all your pieces are captured — game over!
+* Traditional 16 Guti gameplay
+* Interactive board design
+* AI opponent system
+* Player turn management
+* Win detection logic
+* Lightweight browser-based play
 
----
+## Technologies Used 🛠️
 
-## 🖥️ Demo
-Add your screenshot or demo GIF here:  
-![Demo](path-to-your-screenshot.png)
+* HTML
+* CSS
+* JavaScript
 
----
+## How to Play ▶️
 
+1. Open the game in your browser
+2. Select your move
+3. Play against AI or another player
+4. Capture opponent pieces strategically
+5. Win by eliminating opponent pieces
 
+## Project Structure 📂
 
-## 📄 License
-Specify your license here (e.g., MIT License)
+* `index.html` → Main game layout
+* `style.css` → Design and board styling
+* `script.js` → Game logic and AI behavior
+
+## Future Improvements 🚀
+
+* Mobile responsive design
+* Difficulty levels
+* Sound effects
+* Move history
+* Online multiplayer support
+
+## License 📜
+
+This project is licensed under the MIT License.
+
+## Author 👨‍💻
+
+**MH Hridoy**
